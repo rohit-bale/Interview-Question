@@ -17,3 +17,12 @@ than purely descriptive purposes, while business intelligence covers data analys
   predictive forecasting or classification, while text analytics applies statistical, linguistic, and structural techniques to extract
    and classify information from textual sources, a species of unstructured data. All of the above are varieties of data analysis.
 Data integration is a precursor to data analysis, and data analysis is closely linked to data visualization and data dissemination.
+
+project 1
+Exploratory data analysis
+Once the datasets are cleaned, they can then be analyzed. Analysts may apply a variety of techniques, referred to as exploratory data
+ analysis, to begin understanding the messages contained within the obtained data. The process of data exploration may result in 
+ additional data cleaning or additional requests for data; thus, the initialization of the iterative phases mentioned in the lead
+  paragraph of this section. Descriptive statistics, such as, the average or median, can be generated to aid in understanding the
+   data. Data visualization is also a technique used, in which the analyst is able to examine the data in a graphical format in
+    order to obtain additional insights, regarding the messages within the data.
